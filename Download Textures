@@ -1,0 +1,4 @@
+!zip -r /content/gantextures.zip /content/gantextures/
+
+from google.colab import files
+files.download("/content/gantextures.zip")
