@@ -24,3 +24,9 @@ This repository contains the code for a Generative Adversarial Network (GAN) imp
 
 4. Observe the results after around 25,000 epochs. The generated textures should be available for download or viewing.
 
+5. Normal maps can then be created in Photoshop.
+
+### Example
+
+![Preview-01](https://github.com/robbieheriot/Texture-Generation-GAN/assets/118136425/4e47f656-e0fa-4fb6-a3e8-5272236b0b03)
+
