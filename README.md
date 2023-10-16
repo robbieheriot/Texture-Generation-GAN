@@ -26,7 +26,12 @@ This repository contains the code for a Generative Adversarial Network (GAN) imp
 
 5. Normal maps can then be created in Photoshop.
 
-### Example
+### Example 1 Rock Texture
 
-![Preview-01](https://github.com/robbieheriot/Texture-Generation-GAN/assets/118136425/4e47f656-e0fa-4fb6-a3e8-5272236b0b03)
+![Preview-01-01](https://github.com/robbieheriot/Texture-Generation-GAN/assets/118136425/9a961f2f-9a28-4295-bf94-ed2125d99a98)
+
+### Example 2 Wood Texture
+
+![Preview-02-01](https://github.com/robbieheriot/Texture-Generation-GAN/assets/118136425/4aba8d67-e23a-45c3-bb64-741d9593a699)
+
 
