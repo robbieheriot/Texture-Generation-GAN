@@ -4,6 +4,7 @@
 ## Overview
 
 This repository contains the code for a Generative Adversarial Network (GAN) implemented in Python using TensorFlow on Google Colab. The GAN is designed to generate brand new image textures for 3D models. Users can upload their existing image textures, and the GAN will create new textures based on the input data.
+A link to file can be found [here](https://colab.research.google.com/gist/robbieheriot/1c1a0a1589a6f2e96ecb2d9f52488242/gantextures.ipynb) 
 
 ## Getting Started
 
