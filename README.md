@@ -25,7 +25,7 @@ A link to file can be found [here](https://colab.research.google.com/gist/robbie
 
 4. Observe the results after around 25,000 epochs. The generated textures should be available for download or viewing.
 
-5. Normal maps can then be created in Photoshop.
+5. Normal maps can then be created in Photoshop. 
 
 ### Example 1 Rock Texture
 
